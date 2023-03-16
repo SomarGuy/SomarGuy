@@ -9,16 +9,6 @@ Hi there! I'm Diogo, a Full-Stack Web Developer with a passion for creating beau
   <img alt="followers" title="Follow me on GitHub!" src="https://custom-icon-badges.demolab.com/github/followers/SomarGuy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - 
-<!-- View counter - https://github.com/SomarGuy/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/SomarGuy?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/SomarGuy/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
-
 ---
 
 ### 🧰 Languages & Tools
