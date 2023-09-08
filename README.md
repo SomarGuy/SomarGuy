@@ -2,7 +2,7 @@
 
 **`Full-Stack Web Developer (Designer, Programmer)`**
 
-Hi there! I'm Diogo, a Full-Stack Web Developer with a passion for creating beautiful and practical web applications. My expertise lies in developing responsive and dynamic web applications that are user-friendly and simple to maintain. I have a strong eye for design and enjoy working closely with clients to create visually appealing interfaces that are both untuitive and effective. Let's work together to build something spectaculr!
+Hi there! I'm Diogo, a Full-Stack Web Developer passionate about creating beautiful and practical web applications. My expertise lies in developing responsive and dynamic web applications that are user-friendly and simple to maintain. I have a strong eye for design and enjoy working closely with clients to create visually appealing interfaces that are both intuitive and effective. Let's work together to build something spectacular!
 
 <p align="left">
   <a href="https://github.com/SomarGuy?tab=followers">
